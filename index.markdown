@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Das ist die Startseite.
+Das ist die Startseite. Der Inhalt ist in `index.markdown`.
 
 ### Hier ist eine Überschrift
 
