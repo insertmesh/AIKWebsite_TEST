@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: "Willkommen"
+description: "Informationen zur Selbsthilfegruppe in Kiel."
 ---
 
 Das ist die Startseite. Der Inhalt ist in `index.markdown`.
@@ -10,3 +12,7 @@ Das ist die Startseite. Der Inhalt ist in `index.markdown`.
 ### Hier ist eine Überschrift
 
 Mit etwas **Inhalt**.
+
+
+
+---
