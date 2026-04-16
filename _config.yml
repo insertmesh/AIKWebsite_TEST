@@ -36,7 +36,7 @@ plugins:
 
 ignore_theme_config: false
 
-# Exclude from processing.
+
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
 # the internal "default list".
@@ -56,4 +56,22 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+# Tatsächliche Seiten infos die benötigt werden vom autumn theme
+
+  author:
+  name: "Autismus in Kiel"
+  email: "info@autismus-in-kiel.de"
+  twitter: "" 
+  bio: "Treffen für autistische Erwachsene."
+
+  navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+
+    brand_color: "#222222"
+    accent_color: "#f4f4f4"
+
+    
 
