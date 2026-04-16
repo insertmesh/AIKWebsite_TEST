@@ -55,7 +55,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 # Tatsächliche Seiten infos die benötigt werden vom autumn theme
-
+assets: "/assets"
  # Tatsächliche Seiten infos die benötigt werden vom autumn theme
 author:
   name: "Autismus in Kiel"
