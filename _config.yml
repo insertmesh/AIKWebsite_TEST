@@ -28,10 +28,8 @@ url: "https://insertmesh.github.io" # the base hostname & protocol for your site
 
 # Build settings
 theme: null
-remote_theme: connor-baer/autumn
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-seo-tag
 
 ignore_theme_config: false
