@@ -30,6 +30,7 @@ url: "https://autismus-in-kiel.github.io" # the base hostname & protocol for you
 remote_theme: connor-baer/autumn
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 ignore_theme_config: true
 
