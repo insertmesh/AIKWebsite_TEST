@@ -3,16 +3,22 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Willkommen"
+title: "Autismus in Kiel"
 description: "Informationen zur Selbsthilfegruppe in Kiel."
 ---
 
-Das ist die Startseite. Der Inhalt ist in `index.markdown`.
+---
 
-### Hier ist eine Überschrift
+# Selbsthilfe-Organisation Autismus in Kiel
 
-Mit etwas **Inhalt**.
+![Kiel Panorama]({{ site.baseurl }}/_images/home/kiel_01.jpg)
 
+## Selbsthilfe · Forum · Rat
 
+Liebe Autist:innen, 
+
+wir sind eine Selbsthilfe-Organisation für Asperger-Autisten, Hochfunktionale Autisten und alle anderen, die per Diagnose ins Spektrum gehören oder die vermuten, Autisten zu sein. 
+
+Wenn ihr mehr erfahren wollt über uns, [klickt hier]({{ site.baseurl }}/about/)
 
 ---
