@@ -65,9 +65,13 @@ author:
 
 navigation:
   - title: "Home"
-    url: /
-  - title: "About"
+    url: /index/
+  - title: "Über uns"
     url: /about/
+  - title: "Unsere Termine"
+    url: /termine/
+  - title: "Kontakt"
+    url: /kontakt/
 
 brand_color: "#222222"
 accent_color: "#f4f4f4"# Tatsächliche Seiten infos die benötigt werden vom autumn theme
