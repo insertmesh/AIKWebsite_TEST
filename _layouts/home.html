@@ -2,15 +2,27 @@
 layout: default
 ---
 
+{% include core/metabar.html %}
+
+<style>
+  /* Zwingt den Text auf der Startseite auf 100% Breite und entfernt den Rechts-Float */
+  .home-override.content-style > * {
+    float: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-left: 0 !important;
+  }
+</style>
+
 <article class="content page">
   <header class="hero">
     <h1 class="hero-title">{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}</h1>
     {% if page.image %}
-      <div class="hero-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpg');"></div>
+      <div class="hero-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpg'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpg') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}-large.jpg') 2x );"></div>
     {% endif %}
   </header>
 
-  <div>
+  <div class="content-style home-override">
     {{ content }}
     {% include core/share.html %}
   </div>
