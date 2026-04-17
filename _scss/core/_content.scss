@@ -356,12 +356,15 @@
 
 // Spezielle Korrektur für die Startseite (manuell hinzugefügt)
 // Fix für die Startseite: Text bündig mit Header/Bild
-.home-layout {
-  &.content-style {
-    > h1, > h2, > h3, > h4, > h5, > h6, 
-    > p, > ol, > ul, > hr, 
-    > div:not(.sidebar):not(.full) {
-      @include ctnr(three);
-    }
+// Erzwungene volle Breite nur für das Home-Layout
+.home-layout.content-style {
+  > h1, > h2, > h3, > h4, > h5, > h6, 
+  > p, > ol, > ul, > hr, 
+  > div:not(.sidebar):not(.full) {
+    @include ctnr(three);
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
   }
 }
