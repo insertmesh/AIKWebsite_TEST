@@ -355,18 +355,13 @@
 }
 
 // Spezielle Korrektur für die Startseite (manuell hinzugefügt)
-.home-layout.content-style {
-  > h1,
-  > h2,
-  > h3,
-  > h4,
-  > h5,
-  > h6,
-  > p,
-  > ol,
-  > ul,
-  > hr,
-  > div:not(.sidebar):not(.full) {
-    @include ctnr(three); // Nutzt die volle Breite (wie das Menü/Hero)
+// Fix für die Startseite: Text bündig mit Header/Bild
+.home-layout {
+  &.content-style {
+    > h1, > h2, > h3, > h4, > h5, > h6, 
+    > p, > ol, > ul, > hr, 
+    > div:not(.sidebar):not(.full) {
+      @include ctnr(three);
+    }
   }
 }
