@@ -4,7 +4,9 @@
 
 layout: page
 title: "Autismus in Kiel"
-description: "Informationen zur Selbsthilfegruppe in Kiel."
+description: "Autismus in Kiel"
+image: true
+ref: "index"
 ---
 
 ---
