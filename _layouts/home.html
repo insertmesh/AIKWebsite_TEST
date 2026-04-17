@@ -2,6 +2,22 @@
 layout: default
 ---
 
+<style>
+  /* Verhindert die Verschiebung nach rechts auf der Startseite */
+  .home-layout-container {
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    width: 100%;
+  }
+
+  /* Richtet alle Texte und Überschriften linksbündig aus */
+  .home-layout-container > * {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    max-width: 100% !important;
+  }
+</style>
+
 <article class="content page home-layout">
   <header class="hero">
     <h1 class="hero-title">{% if page.description %}{{ page.description }}{% else %}{{ page.title }}{% endif %}</h1>
@@ -10,7 +26,7 @@ layout: default
     {% endif %}
   </header>
 
-  <div class="content-style">
+  <div class="home-layout-container">
     {{ content }}
     {% include core/share.html %}
   </div>
