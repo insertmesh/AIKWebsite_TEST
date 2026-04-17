@@ -10,7 +10,19 @@
 					{% include core/navigation.html %}
 				</nav>
 			</div>
-			
+			<div class="footer-links">
+		
+				<nav>
+					<li class="nav-link">
+  						<a href="{{ '/datenschutz/' | relative_url }}">Datenschutz</a>
+								</li>
+					<li class="nav-link">
+ 						 <a href="{{ '/impressum/' | relative_url }}">Impressum</a>
+								</li>
+						</li>
+					</ul>
+				</nav>
+			</div>
 		</div>
 		<h6 class="footer-text">© {{ site.time | date: '%Y' }} <a href="https://twitter.com/{{ site.author.twitter }}" aria-label="Follow {{ site.author.name }} on Twitter.">{{ site.author.name }}</a>. All rights reserved.</h6>
 	</div>
