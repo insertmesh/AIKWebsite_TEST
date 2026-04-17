@@ -21,7 +21,10 @@ Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gese
 ### Verantwortliche Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-**Samuel Enslin** **Schulweg 2** **24329 Grebin** **samuel . enslin at gmail . com**
+**Samuel Enslin** 
+**Schulweg 2** 
+**24329 Grebin** 
+**samuel[dot]enslin[at]gmail[dot]com**
 
 ### Widerruf Ihrer Einwilligung zur Datenverarbeitung
 Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns.
