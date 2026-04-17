@@ -24,6 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Treffen für autistische Erwachsene und solche mit Autismusverdacht.
 baseurl: "/AIKWebsite_TEST" # the subpath of your site, e.g. /blog
 url: "https://insertmesh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+assets: "/assets"
+images: "/images"
+
 # github_username:  jekyll
 
 # Build settings
