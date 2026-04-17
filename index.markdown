@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Autismus in Kiel"
-description: "Autismus in Kiel"
+title: ""
+description: ""
 image: true
 ref: "kiel01"
 ---
