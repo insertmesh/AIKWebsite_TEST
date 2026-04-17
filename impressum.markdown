@@ -11,13 +11,15 @@ title: "Impressum"
 Samuel Enslin
 
 ## Kontakt
-Telefon: 01523 201 57 29
-E-Mail: samuel . enslin at gmail . com
+Telefon: &#048;&#049;&#053;&#050;&#051;&#050;&#048;&#049;&#053;&#055;&#050;&#057;
+E-Mail: <a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#110;&#102;&#111;&#064;&#097;&#117;&#116;&#105;&#115;&#109;&#117;&#115;&#046;&#105;&#110;&#046;&#107;&#105;&#101;&#108;&#046;&#100;&#101;">&#105;&#110;&#102;&#111;&#064;&#097;&#117;&#116;&#105;&#115;&#109;&#117;&#115;&#046;&#105;&#110;&#046;&#107;&#105;&#101;&#108;&#046;&#100;&#101;</a>
+
 
 ## Redaktionell verantwortlich
 Samuel Enslin
 Schulweg 2
 24329 Grebin
+E-Mail: samuel[dot]enslin[at]gmail[dot]com
 
 ## Verbraucherstreitbeilegung/Universalschlichtungsstelle
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
