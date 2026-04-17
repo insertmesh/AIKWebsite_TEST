@@ -71,19 +71,7 @@ navigation:
 
 brand_color: "#222222"
 accent_color: "#f4f4f4"# Tatsächliche Seiten infos die benötigt werden vom autumn theme
-author:
-  name: "Autismus in Kiel"
-  email: "info@autismus-in-kiel.de"
-  twitter: "" 
-  bio: "Treffen für autistische Erwachsene."
 
-navigation:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
 
-brand_color: "#222222"
-accent_color: "#f4f4f4"
     
 
