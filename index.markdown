@@ -13,7 +13,6 @@ ref: "index"
 
 # Selbsthilfe-Organisation Autismus in Kiel
 
-![Kiel Panorama]({{ site.baseurl }}/_images/home/kiel_01.jpg)
 
 ## Selbsthilfe · Forum · Rat
 
