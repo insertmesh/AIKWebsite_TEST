@@ -34,7 +34,7 @@ ACHTUNG: Die Mailing-Liste für den Stammtisch ist UNABHÄNGIG von dem E-Mail-Ve
 
 Über folgendes Formular kannst du dich für den jeweilig aktuellen Stammtisch im Monat anmelden:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffzg8_aa2B3FjANry1Ox-xoFQld_G9kiB_SMRZ9-Hz2LM31w/viewform?embedded=true" width="640" height="2304" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffzg8_aa2B3FjANry1Ox-xoFQld_G9kiB_SMRZ9-Hz2LM31w/viewform?embedded=true" width="800" height="2304" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
 
 {% comment %}
 Alternativ über externen Link in neuer Seite öffnen:
