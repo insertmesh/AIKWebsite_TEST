@@ -12,13 +12,11 @@ Wir sind eine Selbsthilfe-Organisation von Autisten aus Kiel und Umgebung, die s
 * [Themen](#themen)
 
 // alternative version mit page links (pages müssten dann erstellt werden)
-// * [Ablauf der Treffen]({{ site.baseurl }}{% link ablauf.markdown %})
-// * [Unsere Regeln]({{ site.baseurl }}{% link regeln.markdown %})
-// * [Themenbereiche]({{ site.baseurl }}{% link themen.markdown %})
-
-[Ablauf der Treffen](https://www.example.com)
-[Unsere Regeln](https://www.example.com)
-[Themenbereiche](https://www.example.com)
+{% comment %}
+* [Ablauf der Treffen]({{ site.baseurl }}{% link ablauf.markdown %})
+* [Unsere Regeln]({{ site.baseurl }}{% link regeln.markdown %})
+* [Themenbereiche]({{ site.baseurl }}{% link themen.markdown %})
+{% endcomment %}
 ---
 
 ## Ablauf der Treffen {: #ablauf}
