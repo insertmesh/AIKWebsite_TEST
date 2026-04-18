@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Kontakt"
 permalink: /kontakt/
 ---
@@ -11,6 +11,7 @@ permalink: /kontakt/
 Unsere Treffen finden in Räumlichkeiten von KIBIS statt:
 Lerchenstraße 22 (Vorderhaus), 
 24103 Kiel
+
 ---
 
 ## Kontaktdaten
@@ -18,6 +19,8 @@ Zu den Treffen kannst du prinzipiell jederzeit auch ohne Anmeldung kommen, beim 
 Aber auch sonstige Fragen kannst du uns gerne via E-Mail zukommen lassen
 
 E-Mail Orga-Team: &#105;&#110;&#102;&#111;&#064;&#097;&#117;&#116;&#105;&#115;&#109;&#117;&#115;&#045;&#105;&#110;&#045;&#107;&#105;&#101;&#108;&#046;&#100;&#101;
+
+---
 
 ## Feedback
 
