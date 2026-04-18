@@ -26,4 +26,4 @@ E-Mail Orga-Team: &#105;&#110;&#102;&#111;&#064;&#097;&#117;&#116;&#105;&#115;&#
 
 Wenn du Verbesserungsvorschläge hast für uns, egal ob es die Treffen, deren Moderation oder die Webseite betrifft, kannst du gerne anonym das folgende Feedback-Formular nutzen:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf19IELpUilF191F3HBf_py031hQEAmKNNbVMsMpegRZTphCA/viewform?embedded=true" width="640" height="3501" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf19IELpUilF191F3HBf_py031hQEAmKNNbVMsMpegRZTphCA/viewform?embedded=true" width="800" height="3501" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
