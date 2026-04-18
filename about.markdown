@@ -6,20 +6,20 @@ permalink: /about/
 
 Wir sind eine Selbsthilfe-Organisation von Autisten aus Kiel und Umgebung, die sich wöchentlich trifft. Jeder, der sich dem Spektrum zugehörig fühlt oder auch nur die Möglichkeit sieht, autistisch zu sein, ist willkommen.
 
-## Inhalt {: #inhalt}
+## Inhalt {#inhalt}
 * [Ablauf der Treffen](#ablauf)
 * [Unsere Regeln](#regeln)
 * [Themen](#themen)
 
-// alternative version mit page links (pages müssten dann erstellt werden)
 {% comment %}
+// alternative version mit page links (pages müssten dann erstellt werden)
 * [Ablauf der Treffen]({{ site.baseurl }}{% link ablauf.markdown %})
 * [Unsere Regeln]({{ site.baseurl }}{% link regeln.markdown %})
 * [Themenbereiche]({{ site.baseurl }}{% link themen.markdown %})
 {% endcomment %}
 ---
 
-## Ablauf der Treffen {: #ablauf}
+## Ablauf der Treffen {#ablauf}
 
 Unsere jeweils ca. zweistündigen Treffen sind strukturiert, aber nicht streng strukturiert. Wir
 beginnen mit einer Vorstellungsrunde, wenn sich noch nicht alle im Raum kennen: Jeder kann sich vorstellen, niemand aber sollte sich dazu gezwungen sehen. In der nächsten Runde sammeln wir Themen und stimmen, wenn nötig, über das Thema der Sitzung ab. Dabei kann es sich ergeben, dass pro Sitzung mehr als ein Thema besprochen wird. Wenn in der Themenrunde eine Angelegenheit als Notfall bezeichnet wird, dann hat dieses Thema Priorität.
@@ -35,7 +35,7 @@ Viele betrachten unsere Gruppe in einer ihnen fremden Umwelt als Zufluchtsort, s
 
 [↑ Zurück nach oben](#)
 ---
-## Unsere Regeln {: #regeln}
+## Unsere Regeln {#regeln}
 
 Gruppenregeln sind wie Beipackzettel für Medikamente:
 Wortreich und voller übler Eventualitäten. Dadurch sollte man sich aber nicht von der Einnahme des Medikaments bzw. von der Teilnahme an Gruppentreffen abhalten lassen. Denn es ist wichtig, auf diese Eventualitäten durch Festlegungen vorbereitet zu sein, obwohl man die betreffenden Regeln in unserer lockeren Runde meist nicht zur Anwendung bringen muss.
@@ -99,7 +99,7 @@ Wir stellen keine Diagnosen. Wenn jemand in der Gruppe die anderen fragt, ob sie
 [↑ Zurück nach oben](#)
 ---
 
-## Themenbereiche {: #themen}
+## Themenbereiche {#themen}
 Unsere üblichen Themenbereiche lassen sich wie folgt benennen:
  
  1. Anlaufstellen: Kliniken, Praxen, Ärzte, Psychologen, Therapeuten – z.B.: Wo gibt es
