@@ -128,6 +128,6 @@ Unsere üblichen Themenbereiche lassen sich wie folgt benennen:
 Verarbeitungsweisen andere sind als die von Nicht-Autisten. Daraus ergeben sich anders
 geartete Diskussionen, wenn wir unter uns sind, gleichviel über welches Thema wir sprechen.
  
-** Wenn ein Thema einen Teilnehmer zu triggern droht, sollte er Bescheid sagen, dann werden wir sofort das Thema wechseln und ggf. für die Person, die von dem Themenwechsel betroffen ist und die noch Antworten braucht, eine Lösung finden. 
+** Wenn ein Thema einen Teilnehmer zu triggern droht, sollte er Bescheid sagen, dann werden wir sofort das Thema wechseln und ggf. für die Person, die von dem Themenwechsel betroffen ist und die noch Antworten braucht, eine Lösung finden. **
 
 ### [↑ Zurück nach oben](#)
