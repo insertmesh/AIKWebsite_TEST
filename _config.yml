@@ -30,7 +30,7 @@ images: "/images"
 # github_username:  jekyll
 
 # Build settings
-theme: null
+remote_theme: "pages-themes/minima"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
